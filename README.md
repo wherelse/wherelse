@@ -1,10 +1,9 @@
-### Hi there 👋
+## wherelse
+### Hi there 👋 Here is my introductin 
 
 <!--
 **wherelse/wherelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- An EE student major in Control Science and Engineering.
+- Have some experiences in use STM32，DSP and FPGA.
+- Now main focus on the GNSS(Global Navigation Satellite System), explore the weak signal tracking in the GPS and BeiDou.
+
+- Have some interest in html and css for edit my blog, like tose the hardware.
