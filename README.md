@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- An EE student major in Control Science and Engineering.
-- Have some experiences in use STM32，DSP and FPGA.
-- Now main focus on the GNSS(Global Navigation Satellite System), explore the weak signal tracking in the GPS and BeiDou.
-
-- Have some interest in html and css for edit my blog, like tose the hardware.
+- Have some experiences in use STM32，DSP and FPGA， also interesting in some other area like html, python web crawler
+- Now main focus on the GNSS Baseband signal processing , explore the weak signal tracking in the GPS and BeiDou.
